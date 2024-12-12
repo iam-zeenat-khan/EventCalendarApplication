@@ -70,7 +70,7 @@ This is a fully functional, responsive calendar application built with React. It
 - **Improved Styling:** Enhancing the UI/UX with more custom designs and animations.
 ## Screenshot  of th web app
 ```
-
+![Screenshot](./public/1.png)
 ![Screenshot of the Calendar App](./public/1.png)
 
 ![Screenshot of the Calendar App](./public/2.png)
