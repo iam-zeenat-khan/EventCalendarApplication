@@ -1,5 +1,5 @@
 # React Calendar App
-
+https://eventcalendarapplication.netlify.app
 ## Overview
 
 This is a fully functional, responsive calendar application built with React. It allows users to view, add, edit, and delete events on a monthly calendar. The application uses React Context for state management, localStorage for data persistence, and Tailwind CSS for styling. Additionally, the application includes memoization for performance optimization.
@@ -31,7 +31,7 @@ This is a fully functional, responsive calendar application built with React. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mohammad-Jamal/react-calendar-app.git
+
    cd react-calendar-app
    ```
 ## Installation
@@ -68,7 +68,21 @@ This is a fully functional, responsive calendar application built with React. It
 
 - **Event Reminders:** Implementing notifications for upcoming events.
 - **Improved Styling:** Enhancing the UI/UX with more custom designs and animations.
+## Screenshot  of th web app
+```
 
+![Screenshot of the Calendar App](./public/1.png)
+
+![Screenshot of the Calendar App](./public/2.png)
+
+![Screenshot of the Calendar App](./public/3.png)
+
+![Screenshot of the Calendar App](./public/4.png)
+
+
+```
+
+```
 ## Contributions
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
